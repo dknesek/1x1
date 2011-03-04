@@ -1,0 +1,3 @@
+"The 1 x 1 ('one-by-one") domain testing strategy calls for one on point and one off point for each domain boundary." [Binder 99]
+
+This library generates test cases according to the 1 x 1 strategy.  I'll post more when I publish the initial release.
