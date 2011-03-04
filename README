@@ -1,3 +1,5 @@
 "The 1 x 1 ('one-by-one") domain testing strategy calls for one on point and one off point for each domain boundary." [Binder 99]
 
+http://books.google.com/books?id=P3UkDhLHP4YC&pg=PA410&dq=Binder+One-by-One+Selection+Criteria&hl=en&ei=uWtwTfLjKNGftgel8NWDDw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDUQ6AEwAA
+
 This library generates test cases according to the 1 x 1 strategy.  I'll post more when I publish the initial release.
